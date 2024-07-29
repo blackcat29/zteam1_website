@@ -7,6 +7,7 @@ sap.ui.define(
   
       return BaseController.extend("zteam1website.controller.App", {
         onInit: function() {
+          alert("tien bmw");
         }
       });
     }
